@@ -1,80 +1,135 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Welcome GIF" width="100%">
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=مرحباً+👋;أنا+محمد+عبدالله!;" />
+</h1>
 
-<h1 align="center">👋 مرحبًا، أنا محمد عبدالله</h1>
-<h3 align="center">Full-Stack Web Developer | صانع مواقع ويب احترافية من الصفر</h3>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
-<p align="center">
-<a href="https://www.x.com/abdulahim294-ai"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/abdulahim294-ai"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<a href="https://www.instagram.com/abdulahim294-ai/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a href="https://www.youtube.com/@abdulahim294-ai"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-<a href="https://medium.com/@abdulahim294-ai"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a>
-<a href="https://dev.to/abdulahim294-ai"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
-</p>
+<h3 align="center">
+  🚀 Full-Stack Developer | صانع مواقع ويب احترافية من الصفر
+</h3>
+
+<br/>
+
+<div align="center">
+ 
+ 🔭 أعمل حالياً على **مشاريع ويب متقدمة**
+ 
+ 🌱 أتعلم **React Native و GraphQL**
+ 
+ ⚡ حقيقة ممتعة: **أبدأ يومي بكوب قهوة وكتابة كود!**
+ 
+ </div>
+
+<br/>
+
+<div align="center">
+  <a href="https://www.x.com/abdulahim294-ai">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+  </a>
+  <a href="https://www.linkedin.com/in/abdulahim294-ai">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/abdulahim294-ai/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.youtube.com/@abdulahim294-ai">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="YouTube">
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 📊 إحصائياتي على GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulahim294-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulahim294-ai&theme=radical" alt="GitHub Streak" width="48%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulahim294-ai&layout=compact&theme=radical" alt="Top Languages" width="40%"/>
+</div>
+
+<br/>
+
+## 🛠️ مهاراتي التقنية
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 🚀 مشاريعي المميزة
+
+### 🌟 المشاريع الحالية
+
+| المشروع | الوصف | الرابط |
+|---------|--------|--------|
+| **Soma** | موقع ألعاب تفاعلي | [عرض المشروع](https://github.com/abdulahim294-ai/Soma) |
+| **Moha** | موقعي الشخصي الرسمي | [عرض المشروع](https://github.com/abdulahim294-ai/Moha) |
+| **Maxmed** | موقع للمخترعين | [عرض المشروع](https://github.com/abdulahim294-ai/Maxmed) |
+
+### 🔮 المشاريع القادمة
+- 🛒 **موقع تجارة إلكترونية كامل**
+- 📊 **لوحة تحكم إدارية متقدمة** 
+- 🎨 **Portfolio حديث**
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
+
+## 📞 تواصل معي
+
+<div align="center">
+
+📧 **البريد الإلكتروني:** [abdulahim294@gmail.com](mailto:abdulahim294@gmail.com)
+
+🐦 **تويتر:** [@abdulahim294-ai](https://www.x.com/abdulahim294-ai)
+
+💼 **لينكدإن:** [Mohamed Abdulahi](https://www.linkedin.com/in/abdulahim294-ai)
+
+</div>
+
+<br/>
+
+<div align="center">
+  
+### ⚡️ "الكود الجيد مثل القهوة الجيدة - كلاهما يحتاج إلى التركيز والدقة" ⚡️
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+</div>
 
 ---
 
-## 💻 مهاراتي الأساسية
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/Nuxt-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</p>
+### 💝 إذا أعجبك عملي، يمكنك دعمي بكوب قهوة:
 
----
-
-## 🚀 مشاريع مختارة
-
-<p align="center">
-<a href="https://github.com/abdulahim294-ai/Soma"><img src="https://raw.githubusercontent.com/abdulahim294-ai/Soma/main/screenshot.png" alt="Soma" width="200" style="margin:5px"></a>
-<a href="https://github.com/abdulahim294-ai/Moha"><img src="https://raw.githubusercontent.com/abdulahim294-ai/Moha/main/screenshot.png" alt="Moha" width="200" style="margin:5px"></a>
-<a href="https://github.com/abdulahim294-ai/Maxmed"><img src="https://raw.githubusercontent.com/abdulahim294-ai/Maxmed/main/screenshot.png" alt="Maxmed" width="200" style="margin:5px"></a>
-<a href="https://github.com/abdulahim294-ai/Maxamed"><img src="https://raw.githubusercontent.com/abdulahim294-ai/Maxamed/main/screenshot.png" alt="Maxamed" width="200" style="margin:5px"></a>
-</p>
-
-- **Soma** – موقع ألعاب تفاعلي.  
-- **Moha** – موقعي الرسمي.  
-- **Maxmed** – موقع للمخترعين.  
-- **Maxamed** – صفحة شخصيّة لتجارب التطوير المستقلة.  
-
----
-
-## 📝 آخر المدونات والأخبار
-- Weekly Vue News #222 - Nuxt 4.2 Lands, Nitro v3 Previewed, and Tools to Boost Your Workflow  
-- Weekly Vue News #221 - Vapor Mode, Vue Reactivity Quirks & Vitest 4.0 Released  
-- Weekly Vue News #220 - Mastering Vue Reactivity, Hydration, and Smarter State with Pinia  
-- Weekly Vue News #219 - Nuxt Deep Dive: Passkeys, Environment Configs & the Great Next.js Showdown  
-- Weekly Vue News #218 - Nuxt Environments, Package Deduping & Vite News You Can’t Miss  
-
-➡️ [المزيد من الأخبار](https://weekly-vue.news/issues)
-
----
-
-## 📬 تواصل معي
-- البريد الإلكتروني: `abdulahim294@gmail.com`  
-- تويتر: [@abdulahim294-ai](https://www.x.com/abdulahim294-ai)  
-- لينكدإن: [Mohamed Abdulahi](https://www.linkedin.com/in/abdulahim294-ai)  
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulahim294-ai&show_icons=true&theme=radical" alt="GitHub Stats" width="80%">
-</p>
-
-<p align="center">
-<a href="https://www.buymeacoffee.com/abdulahim294-ai" target="_blank" rel="noreferrer nofollow">
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
+<a href="https://www.buymeacoffee.com/abdulahim294-ai" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height="40" width="170">
 </a>
-</p>
+
+</div>
